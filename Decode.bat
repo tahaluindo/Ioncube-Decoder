@@ -13,7 +13,9 @@ echo                                Zend XCache Decoder
 echo                              PHP Encryptions Decode
 echo                               All UpToDate Decoder
 echo                #######################################################
-echo.Alert ++ Should Put Decoder on C:\ Drive Like This c:\ioncube_priv8_decoder_v1  
+echo                                             Koleksibot
+echo                #######################################################
+echo.  Peringatan ++ Harus Pasang Decoder  C:\ Seperti Ini c:\ioncube_priv8_decoder_v1  
 
 
 :mainMenu
@@ -21,14 +23,9 @@ echo.Alert ++ Should Put Decoder on C:\ Drive Like This c:\ioncube_priv8_decoder
 cls
 echo.
 echo                #######################################################
-echo                  IonCube Priv8 Decoder V1 + PHP Auto - Fixer Decoder
-echo                              Zend Optimizer Decoder
-echo                                PHPExpress Decoder
-echo                                Zend XCache Decoder
-echo                              PHP Encryptions Decode
-echo                               All UpToDate Decoder
+echo                  Koleksibot
 echo                #######################################################
-echo.Alert ++ Should Put Decoder on C:\ Drive Like This c:\ioncube_priv8_decoder_v1 
+echo.Alert ++ Harus Pasang Decoder  C:\ Seperti Ini c:\ioncube_priv8_decoder_v1 
 echo.
 echo [1] - Decode IC8.x and Zend Optimizer UpToDate (PHP 5.3):
 echo [2] - Decode IC8.x and Zend Optimizer UpToDate (PHP 5.2):
